@@ -21,8 +21,7 @@ new MinhaVariavel;
 // O ponto e vírgula ; é usado no final para fechar a declaração.
 ```
 
-The declaration syntax can be better understood by looking at some examples :
-
+A sintaxe da declaração pode ser melhor compreendida através de alguns exemplos:
 ```c
 new var;
 new municao;
